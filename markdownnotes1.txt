@@ -1,0 +1,16 @@
+## What is Markdown?
+
+- Markdown is a simple markup language used to format text using plain-text symbols. It is commonly used to create formatted documents, README files, and documentation.
+
+## What is Git?
+
+- Git is a version control system that tracks changes to files and code. It allows developers to save different versions of their work and collaborate with others.
+
+
+## What is GitHub?
+
+- GitHub is an online platform that hosts Git repositories. It allows developers to store, manage, share, and collaborate on software projects.
+- 
+## What is Slack?
+
+- Slack is a communication and collaboration platform used by teams to communicate through channels, direct messages, file sharing, and other workplace tools.
